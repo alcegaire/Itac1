@@ -1,9 +1,21 @@
-<<<<<<< HEAD
 h1{
-	color: red;
-=======
-.h1{
 
 	color: blue;
->>>>>>> mapremierebranch
 }
+
+p{
+
+	border-style: solid;
+	border: 10px 10px 10px 10px;
+}
+
+.p1{
+
+	background-color: blue;
+}
+
+.p2{
+
+	background-color: red;
+}
+
